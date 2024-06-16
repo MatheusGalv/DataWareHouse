@@ -1,0 +1,5 @@
+Pandas     ----  Serve para transformar dados, criar tabelas...
+sqlalchemy  ---- Serve para mexer com banco de dados
+python-dotenv ---- Para mexer com variavel de ambiente
+psycopg2-binary ---- Biblioteca do driver para mexer com o postgree
+yfinance ---- API Financeiro
